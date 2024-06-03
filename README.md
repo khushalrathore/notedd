@@ -1,6 +1,6 @@
-# ToDo List Application
+# noteDD Application
 
-This is a simple React-based ToDo List application. It allows users to add, check, and delete tasks. The styling is done using inline styles and images are used for the logo, star, bell, and delete icons.
+This is a simple React-based notes making application. It allows users to add, check, and delete notes.
 
 ## Table of Contents
 - [Installation](#installation)
