@@ -177,7 +177,7 @@ const styles = {
 
 const ToDoList = () => {
 
-  const user = prompt('Pick a Username 😄');
+  const user = '@user';
   const [tasks, setTasks] = useState(["Go To Gym", "DSA Roadmap"]);
   const handleAddTasks = () => {
     const newTask = document.getElementById('inputTask').value
