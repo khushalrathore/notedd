@@ -1,4 +1,3 @@
-```markdown
 # ToDo List Application
 
 This is a simple React-based ToDo List application. It allows users to add, check, and delete tasks. The styling is done using inline styles and images are used for the logo, star, bell, and delete icons.
@@ -74,4 +73,3 @@ The application uses inline styles for simplicity. Here are some of the key styl
 - The user profile picture URL: [Boring Avatars](https://source.boringavatars.com/beam/250/?colors=264653,f4a261,e76f51)
 
 Feel free to customize the styles and functionality as per your requirements!
-```
