@@ -178,7 +178,7 @@ const styles = {
 const ToDoList = () => {
 
   const user = '@user';
-  const [tasks, setTasks] = useState(["Go To Gym", "DSA Roadmap"]);
+  const [tasks, setTasks] = useState([]);
   const handleAddTasks = () => {
     const newTask = document.getElementById('inputTask').value
     document.getElementById('inputTask').value = '';
